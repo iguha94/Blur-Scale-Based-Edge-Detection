@@ -6,5 +6,4 @@ Please take a look at the edge detection results on some real world images. Each
 
 
 ## Example 1
-![GitHub Logo](/images/RealImage2.png)
-Format: ![Alt Text](url)
+(RealImage2.png)

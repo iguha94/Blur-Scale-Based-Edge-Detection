@@ -6,4 +6,4 @@ Please take a look at the edge detection results on some real world images. Each
 
 
 ## Example 1
-(RealImage2.png)
+![alt text](RealImage2.png)
